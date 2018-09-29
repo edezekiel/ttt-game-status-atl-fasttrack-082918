@@ -29,8 +29,8 @@ end
 
 def full(board)
   if board.include?(" ")
-   false
+   return false
  else
-   true
+   return true
   end
 end
