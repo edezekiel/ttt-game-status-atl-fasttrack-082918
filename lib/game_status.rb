@@ -51,3 +51,7 @@ def over?(board)
     #accepts a board and returns true if the board has been won, is a draw, or is full.
 end
 end
+
+def winner?(board)
+
+end
