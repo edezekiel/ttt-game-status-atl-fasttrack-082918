@@ -54,4 +54,7 @@ end
 
 def winner?(board)
 
+  return "X"
+
+  return "O"
 end
